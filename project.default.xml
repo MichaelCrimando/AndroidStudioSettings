@@ -1,0 +1,20 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="ProjectViewState">
+        <option name="showLibraryContents" value="true" />
+      </component>
+      <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "settings.editor.selected.configurable": "com.google.gct.login2.settings.GoogleLoginApplicationSettingsConfigurableProvider"
+  }
+}]]></component>
+      <component name="WindowStateProjectService">
+        <state x="271" y="40" key="SettingsEditor" timestamp="1712609343971">
+          <screen x="0" y="0" width="1536" height="816" />
+        </state>
+        <state x="271" y="40" key="SettingsEditor/0.0.1536.816/3840.0.1536.816" timestamp="1712609343971" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
