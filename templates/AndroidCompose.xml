@@ -1,0 +1,7 @@
+<templateSet group="AndroidCompose">
+  <template name="comp" value="@androidx.compose.runtime.Composable&#10;fun $NAME$Screen(modifier: androidx.compose.ui.Modifier = androidx.compose.ui.Modifier) {&#10;$END$&#10;}&#10;&#10;@androidx.compose.ui.tooling.preview.Preview(widthDp = 360, heightDp = 740, showBackground = true)&#10;@androidx.compose.runtime.Composable&#10;private fun $NAME$ScreenPreview() {&#10;    $THEME$ { //theme&#10;        $NAME$Screen()&#10;    }&#10;}" description="Create @Composable function with preview" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="THEME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>
